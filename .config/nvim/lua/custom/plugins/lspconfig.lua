@@ -5,7 +5,7 @@ M.setup_lsp = function(attach, capabilities)
 
    -- lspservers with default config
 
-   local servers = { "pyright", "clangd" }
+   local servers = { "pyright", "ccls" }
 
    for _, lsp in ipairs(servers) do
       lspconfig[lsp].setup {

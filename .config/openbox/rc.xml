@@ -22,7 +22,7 @@
     <primaryMonitor>Mouse</primaryMonitor>
   </placement>
   <theme>
-    <name>Adapta-Nokto</name>
+    <name>Juno-palenight</name>
     <titleLayout>MLC</titleLayout>
     <keepBorder>no</keepBorder>
     <animateIconify>yes</animateIconify>
@@ -487,11 +487,11 @@
         <command>thunar</command>
       </action>
     </keybind>
-    <keybind key="W-w">
-      <action name="Execute">
-        <command>firefox</command>
-      </action>
-    </keybind>
+    <!-- <keybind key="W-w"> -->
+    <!--   <action name="Execute"> -->
+    <!--     <command>firefox</command> -->
+    <!--   </action> -->
+    <!-- </keybind> -->
     <keybind key="W-e">
       <action name="Execute">
         <command>geany</command>
