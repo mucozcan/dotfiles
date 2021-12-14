@@ -4,9 +4,9 @@
 /* Color-Scheme */
 
 * {
-    BG:    #212B30ff;
-    BGA:   #263035ff;
-    FG:    #C4C7C5ff;
+    BG:    #282A36;
+    BGA:   #808080;
+    FG:    #F8F8F2;
     BDR:   #4DD0E1ff;
     SEL:   #4DD0E1ff;
     UGT:   #EC407Aff;

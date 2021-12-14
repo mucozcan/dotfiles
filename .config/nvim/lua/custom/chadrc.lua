@@ -15,9 +15,9 @@ M.options, M.ui, M.mappings, M.plugins = {}, {}, {}, {}
 --    relativenumber = true,
 -- }
 
--- M.ui = {
---   theme = "nord"
--- }
+M.ui = {
+  theme = "chadracula"
+}
 
 -- NvChad included plugin options & overrides
 M.plugins = {
